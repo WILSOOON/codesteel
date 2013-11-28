@@ -26,6 +26,7 @@ int main()
 {
     gabby gab;
     cout<<"Hello world\n\n";
+    cout<<"Hi daw";
     gab.test();
     cout<<endl;
 system("pause");
